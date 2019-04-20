@@ -1,6 +1,6 @@
 # Hello, welcome 👋
 
-![Starta Systems](../profile/header.png)
+![Starta Systems](https://raw.githubusercontent.com/startasystems/.github/master/profile/header.png)
 
 A team of professionals with over 20 years of experience in different market segments, we offer different solutions for software development, mobile applications, tablets and smart-tvs of different technological platforms such as [PWA](https://developers.google.com/web/progressive-web-apps/), [UI Design](https://en.wikipedia.org/wiki/User_interface_design), [User Experience (UX) Design](https://en.wikipedia.org/wiki/User_experience), [Blockchain](https://en.wikipedia.org/wiki/Blockchain), [Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract ) and more...
 
