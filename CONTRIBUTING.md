@@ -1,15 +1,17 @@
 # Contributing
 
-[fork]: https://github.com/starta-systems/.github/REPO/fork
-[pr]: https://github.com/starta-systems/.github/REPO/compare
+[fork]: https://github.com/startasystems/.github/REPO/fork
+[pr]: https://github.com/startasystems/.github/REPO/compare
 [style]: https://github.com/styleguide/ruby
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
 ## Translations
 
-[Portuguese (Brasil)](./CONTRIBUTING_PT-BR.md)
+[Portuguese (Brazil)](./CONTRIBUTING_PT-BR.md)
 
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+---
+
+Hey there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
 Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](LICENSE.md).
 

@@ -1,8 +1,10 @@
 # Código de Conduta do Contribuidor
 
-## Translations
+## Traduções
 
-[English](./CODE_OF_CONDUCT.md)
+[Inglês](./CODE_OF_CONDUCT.md)
+
+---
 
 ## Nosso Compromisso
 
@@ -57,7 +59,7 @@ definidos e esclarecidos pelos mantenedores do projeto.
 ## Repercurssão
 
 Casos de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser
-relatados entrando em contato com a equipe do projeto em starta.systems@protonmail.com.
+relatados entrando em contato com a equipe do projeto em starta.systems[@]protonmail.com.
 Todas as reclamações serão analisadas e investigadas e resultarão em uma resposta que
 for considerada necessária e adequada às circunstâncias. A equipe do projeto é obrigada a
 manter a confidencialidade em relação ao relator de um incidente. Mais detalhes de

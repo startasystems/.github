@@ -1,13 +1,15 @@
 # Contributing
 
-[fork]: https://github.com/starta-systems/.github/REPO/fork
-[pr]: https://github.com/starta-systems/.github/REPO/compare
+[fork]: https://github.com/startasystems/.github/REPO/fork
+[pr]: https://github.com/startasystems/.github/REPO/compare
 [style]: https://github.com/styleguide/ruby
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
-## Translations
+## Traduções
 
-[English](./CONTRIBUTING.md)
+[Inglês](./CONTRIBUTING.md)
+
+---
 
 Olá! Estamos muito felizes que você gostaria de contribuir para este projeto. Sua ajuda é essencial para mantê-lo ótimo.
 
